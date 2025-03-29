@@ -183,8 +183,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'STATS:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
+  m_sharedMaterial: {fileID: -210428604567218597, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -519,8 +519,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
+  m_sharedMaterial: {fileID: -210428604567218597, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -853,8 +853,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Press E to do something
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
+  m_sharedMaterial: {fileID: -210428604567218597, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1080,7 +1080,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 290d977ae0c21a84b93ffadd91640a95, type: 2}
+  - {fileID: 2100000, guid: a366046b84fd68045851c313df0f845e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2180,8 +2180,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'ACTION:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
+  m_sharedMaterial: {fileID: -210428604567218597, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2317,8 +2317,8 @@ MonoBehaviour:
     If you surpase
     100 oxygen depletion and exhaustion, you will die'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
+  m_sharedMaterial: {fileID: -210428604567218597, guid: d369da507c3b2a647a08f08a44f12f63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
